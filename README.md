@@ -2,23 +2,23 @@
 
 ### Data Scientist & ML Engineer
 
-I build applied machine learning and data systems across causal inference, NLP, computer vision, and agentic API evaluation. I care about reliable evaluation, clear problem framing, and work that remains useful outside a notebook.
+I'm a data scientist and ML engineer based in Warsaw. I mainly work on causal inference, NLP, and computer vision. I like projects where the evaluation is as important as the model and where the result can be inspected and rerun.
 
-I'm Igor Kołodziej (also written **Igor Kolodziej** in ASCII), based in Warsaw. I hold an **MSc in Data Science & Business Analysis with distinction** from the University of Warsaw (2026) and a **BSc in Neuroinformatics**.
+My name is Igor Kołodziej. When Polish characters are unavailable, it is written **Igor Kolodziej**. I graduated with distinction from the **MSc in Data Science & Business Analysis** at the University of Warsaw in 2026, after completing a **BSc in Neuroinformatics**.
 
 ## Selected work
 
-- **[Causal ML for crypto-market manipulation](https://github.com/igor-kolodziej/crypto-manipulation-causal-ml):** NLP, group-aware prediction, and heterogeneous-treatment-effect analysis for pump-and-dump research. The thesis analyzed 12.4M Telegram messages. The unseen-channel model achieved macro-F1 **0.76** and successful-event recall **0.89**.
-- **[Agentic API readiness](https://github.com/igor-kolodziej/agentic-api-readiness):** an OpenAPI-to-MCP auditing pipeline that validates, simulates, grades, and redacts tools before agent use.
-- **[EuroSAT RGB classification](https://github.com/igor-kolodziej/eurosat-rgb-classification):** a reproducible PyTorch/ResNet18 land-use classifier with a previously reported test accuracy of **89.53%**.
-- **[Reddit supplement NLP](https://github.com/igor-kolodziej/reddit-supplement-analysis):** a streaming NLP pipeline for supplement mentions, intent, sentiment, negation, and aspect extraction.
-- **[StressAware HRV](https://github.com/igor-kolodziej/stressaware-hrv):** an R/Shiny and Python workflow for HRV preprocessing and subject-aware stress classification using WESAD.
+- **[Causal ML for crypto-market manipulation](https://github.com/igor-kolodziej/crypto-manipulation-causal-ml):** the public companion to my master's thesis. I studied 12.4M Telegram messages and tested the predictive model on channels it had never seen. The thesis reported macro-F1 **0.76** and recall **0.89** for successful events. The public repository uses synthetic data.
+- **[Agentic API readiness](https://github.com/igor-kolodziej/agentic-api-readiness):** a Python tool for checking how an OpenAPI specification behaves when an agent uses the API through MCP. It validates the spec, runs test workflows, grades traces, and removes sensitive values from reports.
+- **[EuroSAT RGB classification](https://github.com/igor-kolodziej/eurosat-rgb-classification):** a ResNet18 classifier for ten land-use classes, with a fixed data split and three preprocessing variants. The original project run reported **89.53%** test accuracy.
+- **[Reddit supplement NLP](https://github.com/igor-kolodziej/reddit-supplement-analysis):** a streaming text-analysis tool for finding supplement mentions, questions, sentiment, negation, and aspects in Reddit discussions.
+- **[StressAware HRV](https://github.com/igor-kolodziej/stressaware-hrv):** a course project with Paula Banach that combines an R/Shiny app with Python HRV preprocessing and WESAD-based stress experiments.
 
-## Focus
+## Interests and tools
 
-**Applied ML:** causal inference, NLP, computer vision, biosignals, evaluation  
-**Languages:** Python, R, SQL  
-**Tools:** PyTorch, scikit-learn, Transformers, XGBoost, EconML, Docker, GitHub Actions
+- **Main interests:** causal inference, NLP, computer vision, biosignals, evaluation
+- **Languages:** Python, R, SQL
+- **Selected tools:** PyTorch, scikit-learn, Transformers, XGBoost, EconML, Docker, GitHub Actions
 
 ## Contact
 
