@@ -2,9 +2,9 @@
 
 ### Data Scientist & ML Engineer
 
-I'm a data scientist and ML engineer based in Warsaw. I mainly work on causal inference, NLP, and computer vision. I like projects where the evaluation is as important as the model and where the result can be inspected and rerun.
+I'm a data scientist and ML engineer based in Warsaw. I mainly work on causal inference, NLP, and computer vision. I like projects where the evaluation & result is as important as the model.
 
-My name is Igor Kołodziej. When Polish characters are unavailable, it is written **Igor Kolodziej**. I graduated with distinction from the **MSc in Data Science & Business Analysis** at the University of Warsaw in 2026, after completing a **BSc in Neuroinformatics**.
+I graduated from the **MSc in Data Science & Business Analysis** at the University of Warsaw in 2026, after completing a **BSc in Neuroinformatics**. Besides side projects & work I am also part of the NeuroInformatics science club, if you want to join, help organize and event or participate in one - please reach out!:)
 
 ## Selected work
 
